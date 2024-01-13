@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: rgb(145, 179, 209);
+    text-align: center;
+}
+section{
+    border: 2px rgb(88, 198, 202);
+    margin-bottom: 8px;
+}
+section.about-me, section.about-lilly{
+    border: 2px solid darkgrey;
+    padding: 10px;
+}
+.about-me{
+    margin-bottom: 40px;
+}

@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-red{
+    color: rgb(189, 6, 6);
+}
+.text-green{
+    color: rgb(10, 226, 10);
+}
+.text-orange{
+    color:orange ;
+}
+.text-yellow{
+    color: yellow;
+}
+.bg-dark{
+background-color:  rgba(0, 0, 0, 0.658);
+}
